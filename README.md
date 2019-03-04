@@ -72,6 +72,9 @@ $ which php
 
 ### e. clear
 Clears content on window.
+
+
+## 1.1. File Operations
 <table>
    <tr>
       <td><a href="#a-cat">cat</a></td>
@@ -98,6 +101,3 @@ Clears content on window.
       <td><a href="#t-touch">touch</a></td>
    </tr>
 </table>
-
-
-
