@@ -84,20 +84,20 @@ Clears content on window.
       <td><a href="#e-diff">diff</a></td>
       <td><a href="#f-file">file</a></td>
       <td><a href="#g-find">find</a></td>
-      <td><a href="#h-gunzip">gunzip</a></td>
-      <td><a href="#i-gzcat">gzcat</a></td>
-      <td><a href="#j-gzip">gzip</a></td>
-      <td><a href="#k-head">head</a></td>
+      <td><a href="#h-head">gunzip</a></td>
+      <td><a href="#i-tail">gzcat</a></td>
+      <td><a href="#j-lpq">gzip</a></td>
+      <td><a href="#k-ls">head</a></td>
    </tr>
    <tr>
-      <td><a href="#l-lpq">lpq</a></td>
-      <td><a href="#m-lpr">lpr</a></td>
-      <td><a href="#n-lprm">lprm</a></td>
-      <td><a href="#o-ls">ls</a></td>
-      <td><a href="#p-more">more</a></td>
-      <td><a href="#q-mv">mv</a></td>
-      <td><a href="#r-rm">rm</a></td>
-      <td><a href="#s-tail">tail</a></td>
+      <td><a href="#l-more">lpq</a></td>
+      <td><a href="#m-mv">lpr</a></td>
+      <td><a href="#n-rm">lprm</a></td>
+      <td><a href="#o-touch">ls</a></td>
+      <td><a href="#p-sed">more</a></td>
+      <td><a href="#q-gunzip">mv</a></td>
+      <td><a href="#r-gzcar">rm</a></td>
+      <td><a href="#s-gzip">tail</a></td>
       <td><a href="#t-touch">touch</a></td>
    </tr>
 </table>
@@ -249,19 +249,19 @@ Perform functions on file such as searching, find and replace, insertion or dele
 $sed 's/unix/linux/' geekfile.txt
 ```
 
-### p. `gunzip`
+### q. `gunzip`
 Un-compresses files compressed by gzip.  
 ```bash
 gunzip filename
 ```
 
-### q. `gzcat`
+### r. `gzcat`
 Lets you look at gzipped file without actually having to gunzip it.  
 ```bash
 gzcat filename
 ```
 
-### r. `gzip`
+### s. `gzip`
 Compresses files.  
 ```bash
 gzip filename
