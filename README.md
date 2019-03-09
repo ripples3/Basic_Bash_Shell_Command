@@ -84,20 +84,20 @@ Clears content on window.
       <td><a href="#e-diff">diff</a></td>
       <td><a href="#f-file">file</a></td>
       <td><a href="#g-find">find</a></td>
-      <td><a href="#h-head">gunzip</a></td>
-      <td><a href="#i-tail">gzcat</a></td>
-      <td><a href="#j-lpq">gzip</a></td>
-      <td><a href="#k-ls">head</a></td>
+      <td><a href="#h-head">head</a></td>
+      <td><a href="#i-tail">tail</a></td>
+      <td><a href="#j-lpq">lqp</a></td>
+      <td><a href="#k-ls">ls</a></td>
    </tr>
    <tr>
-      <td><a href="#l-more">lpq</a></td>
-      <td><a href="#m-mv">lpr</a></td>
-      <td><a href="#n-rm">lprm</a></td>
-      <td><a href="#o-touch">ls</a></td>
-      <td><a href="#p-sed">more</a></td>
-      <td><a href="#q-gunzip">mv</a></td>
-      <td><a href="#r-gzcar">rm</a></td>
-      <td><a href="#s-gzip">tail</a></td>
+      <td><a href="#l-more">more</a></td>
+      <td><a href="#m-mv">mv</a></td>
+      <td><a href="#n-rm">rm</a></td>
+      <td><a href="#o-touch">touch</a></td>
+      <td><a href="#p-sed">sed</a></td>
+      <td><a href="#q-gunzip">gunzip</a></td>
+      <td><a href="#r-gzcar">gzcar</a></td>
+      <td><a href="#s-gzip">gzip</a></td>
       <td><a href="#t-touch">touch</a></td>
    </tr>
 </table>
